@@ -41,10 +41,10 @@ php artisan key:generate
 php artisan serve
 ```
 
-Add your Pexels API key to `.env`:
+Add your Pexels API key to `.env.example`:
 
 ```
-PEXELS_API_KEY=your_api_key_here
+PEXELS_API_KEY= add_your_api_key_here
 ```
 
 Backend will run at:
